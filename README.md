@@ -3,7 +3,7 @@
 - 🔭 Estudando Front-end e Back-end
 - 🪐 Focado em Java, Python, Javascript
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusandradee&show_icons=true&theme=radical)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusandradee&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusandradee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
