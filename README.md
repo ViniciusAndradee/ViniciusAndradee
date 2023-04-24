@@ -3,9 +3,7 @@
 - 🔭 Estudando Front-end e Back-end
 - 🪐 Focado em Java, Python, Javascript
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusandradee&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusandradee&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusandradee&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusandradee&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
