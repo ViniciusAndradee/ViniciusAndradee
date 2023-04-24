@@ -3,4 +3,4 @@
 - 🔭 Estudando Front-end e Back-end
 - 🪐 Focado em Java, Python, Javascript
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndradee)](https://github.com/anuraghazra/github-readme-stats)
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusandradee&show_icons=true&theme=radical)
